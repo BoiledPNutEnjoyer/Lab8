@@ -44,7 +44,7 @@ public class ClassController
 	//TODO implement
 	public String getClassName()
 	{
-
+		return myModel.getClassName();
 	}
 	
 	
